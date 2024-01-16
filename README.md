@@ -2,7 +2,7 @@ Procedural connected loop doodles are continuously redrawn with a charcoal style
 
 ## Demo
 
-https://tessmero.github.io/loop.html
+https://tessmero.github.io/loops.html
 
 ## Usage
 
